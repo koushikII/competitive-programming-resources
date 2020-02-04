@@ -10,3 +10,6 @@ https://codeforces.com/blog/entry/55274
 
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=604
 
+
+
+https://cp-algorithms.com/
