@@ -34,3 +34,7 @@ https://codeforces.com/blog/entry/57319
 
 Square root decomposition  problems :
 https://codeforces.com/blog/entry/23005
+
+
+Amazon interview questions playlist:
+https://www.youtube.com/playlist?list=PLLucmoeZjtMR990BPePcn5WgoCM_OX0YB
