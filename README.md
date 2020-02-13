@@ -27,5 +27,10 @@ https://codeforces.com/blog/entry/22616
 
 Some good CP tutorials: 
 https://codeforces.com/blog/entry/57282
+
+
 Segment tree beats:
 https://codeforces.com/blog/entry/57319
+
+Segment tree problems :
+https://codeforces.com/blog/entry/23005
