@@ -17,3 +17,7 @@ https://cp-algorithms.com/
 https://codeforces.com/blog/entry/57282
 
 https://www.leetfree.com/
+
+
+DP resources :
+https://codeforces.com/blog/entry/73446
