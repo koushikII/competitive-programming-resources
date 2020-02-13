@@ -24,3 +24,6 @@ https://codeforces.com/blog/entry/73446
 
 Segment Tree Problems :
 https://codeforces.com/blog/entry/22616
+
+Some good CP tutorials: 
+https://codeforces.com/blog/entry/57282
